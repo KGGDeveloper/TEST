@@ -16,6 +16,6 @@ public class Test {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("I Love You!");
-        System.out.print("Seventh Try 3:37PM for Pull. ");
+        System.out.print("Eighth Try 3:42PM for Commit and Push. ");
     }
 }
